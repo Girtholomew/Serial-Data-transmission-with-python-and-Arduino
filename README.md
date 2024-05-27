@@ -3,7 +3,8 @@
 This repository explains the working of the code that I made to communicate with an Arduino using Python, which is used to drive upto 6 servo motors at once.
 
 # Requirements
-[pySerial\n](https://github.com/pyserial/pyserial/blob/master/documentation/pyserial.rst)
+[pySerial](https://github.com/pyserial/pyserial/blob/master/documentation/pyserial.rst)
+
 [Python Time Library](https://docs.python.org/3/library/time.html)
 
 # Python Code
